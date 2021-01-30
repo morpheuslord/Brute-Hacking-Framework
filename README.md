@@ -142,6 +142,7 @@ complete windows hacker's kit with all required configurations and a completely 
 # portableapps from portableapps.com
 **************************************************************************************************
 **************************************************************************************************
-# joomscan and many more
+# joomscan and many more tools 
 **************************************************************************************************
 **************************************************************************************************
+# please open the config folder and open the user_aliases.cmd file to add or see all the commands in it
