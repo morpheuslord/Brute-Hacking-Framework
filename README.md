@@ -1,10 +1,15 @@
 ![Icon](https://github.com/morpheuslord/Brute-Hacking-Framework-SourceCode/blob/main/icons/cmder.ico)
-# Brute-Framework
+[![Twitter](https://img.shields.io/badge/twitter-@Morpheuslord2-red.svg)](https://twitter.com/Morpheuslord2)
+[![Instagram](https://img.shields.io/badge/instagram-morpheuslord_9034-yellow.svg)](https://instagram.com/morpheuslord_9034)
+# Brute-Hacking-Framework-SourceCode
 ------------------------------------
 **************************************************************************************
 # Required files & dependencies
 -------------------------------
-u will need bin.rar & git-for-windows.rar & windows 10 device 64 bit and nothing else
+u will need bin.rar & git-for-windows.rar & windows 10 device 64 bit and 
+u will need to have npcap and usbpcap to run nmap and wireshark
+And ur pen drive must be registered as E: drive for smooth running of the tool 
+nothing else
 **************************************************************************************
 # bin-folder
 ------------
@@ -70,12 +75,49 @@ installed is limited and will comfort u to do some basic hacking tasks and do so
 **************************************************************************************
 # special thanks to 
 --------------------
-Samuel Vasko for cmder. NullByte for info on some of the tools in the project. Avi Mimoun for the idea of source-code repository. TUX for helping in the start of this tool building process.
+Samuel Vasko for [cmder](https://github.com/cmderdev/cmder). [NullByte](https://www.youtube.com/channel/UCgTNupxATBfWmfehv21ym-g) for info on some of the tools in the project. [Avi Mimoun](https://twitter.com/AviMimoun) for the idea of source-code repository. [TUX](https://www.youtube.com/channel/UCdshuXLzwZ0ExTOnhIJ0ITgfor) helping in the start of this tool building process.
+**************************************************************************************
+# usage
+It's easy to use to run the tools u need to type :
+
+    λ list
+
+In the command interface
+U will be shown all the tools included by me 
+This command will lead to the main framework 
+
+    λ Brute-framework 
+
+U need to type this command to access most of the tools 
+If u type this command in the total kit
+
+In brute-framework u can see all the tools included
+
+U will be prompted to this command interface after u type 
+
+    λ Brute-Framework
+
+U have to type help command in the new interface to see the listed commands 
+
+    Users[]- help
+
+U can access other tools by checking the user_aliases.cmd file in the config folder u can add and delete tools from it 
+U can take YouTube for learning the nessary skills I prefer these YouTube channel  :-
+*nullbyte
+*networkchuck
+*zsecurity.
+
+And for brute framework original code check this channel :-
+*TechnicalUserX. 
+
+Thank u
 **************************************************************************************
 # NOTE 
 -------
 THIS TOOLS IS PREFERED TO BE USED IN THE PENDRIVE OR SD CARD WITH MINIMUM OF 32-GB SPACE.  
 u need to extract the files from the rar archives to the respected locations 
-bin.rar files to the E:bin/ location. git-for-windows.rar files to E:vendor/
-**************************************************************************************
+bin.rar files to the E:bin/ location. git-for-windows.rar files to E:vendor/ . 
+Contact me email - (Morpheuslord.protonmail.com)
+----------------
+*************************************************************************************
 **************************************************************************************
